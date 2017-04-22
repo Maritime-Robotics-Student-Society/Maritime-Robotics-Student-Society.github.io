@@ -1,3 +1,7 @@
+# Welcome
+## To the Fork of the Soton Sailbot's Github.io Page
+This is all still really really preliminary right now.
+
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
