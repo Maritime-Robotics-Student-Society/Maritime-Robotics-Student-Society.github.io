@@ -1,7 +1,6 @@
 # Welcome
 ## To the Fork of the Soton Sailbot's Github.io Page
-You have found your way to my fork of the repo. Congratulations. Go crack a cold
-one.
+You have found your way to my fork of the repo. Congratulations. Go crack a cold one.
 
 ## Building this Site
 Get [Jekyll](https://jekyllrb.com) first. You'll first need the [RubyGems](https://rubygems.org/) gem hoster though. [Here's the download page](https://rubygems.org/pages/download). _However_, this pretty much requires you to have a Linux/Mac machine. So unless you somehow manage to get RubyGems working on Windows, for one congratulations and two please show me how you did that. I want to know how to do that too.
