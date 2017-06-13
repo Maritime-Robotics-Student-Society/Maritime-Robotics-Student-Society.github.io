@@ -159,9 +159,10 @@ header {
     text-align: center;
     color: white;
     .header-content {
+        background: $header-background-color;
         position: relative;
         text-align: center;
-        padding: 100px 15px 100px;
+        padding: $header-padding;
         width: 100%;
         .header-content-inner {
             h1 {
@@ -189,7 +190,7 @@ header {
             -webkit-transform: translateY(-50%);
             -ms-transform: translateY(-50%);
             transform: translateY(-50%);
-            padding: 0 50px;
+            padding: $header-padding;
             .header-content-inner {
                 max-width: 1000px;
                 margin-left: auto;
@@ -348,4 +349,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
